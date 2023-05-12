@@ -1,5 +1,5 @@
-import HW12.Author;
-import HW12.Book;
+import HW13.Author;
+import HW13.Book;
 
 public class Main {
     public static void main(String[] args) {
