@@ -3,7 +3,7 @@ package HW12;
 public class Book {
      private String bookName;
     public int bookPublication;
-    Author name;
+   private Author name;
 
     public Book(String bookName, int bookPublication, Author name) {
         this.bookName = bookName;
